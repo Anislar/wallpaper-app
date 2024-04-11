@@ -25,22 +25,12 @@ git clone https://github.com/Anislar/wallpaper-app
 
 2. Accédez au dossier du projet :
 3. Installez les dépendances du projet : npm install 
-4. Créez un fichier `.env` à la racine de votre projet et ajoutez-y votre clé d'API Pixabay :EXPO_PUBLIC_API_KEY_PIXABAY=####
+4. Créez un fichier `.env` à la racine de votre projet et ajoutez-y votre clé d'API Pixabay: #EXPO_PUBLIC_API_KEY_PIXABAY
 Pour lancer l'application sur votre appareil ou émulateur, exécutez la commande suivante : npm start
 
 
 
 Scannez le QR code avec l'application Expo Go (disponible sur Android et iOS) ou suivez les instructions dans le terminal pour lancer l'application sur un émulateur.
-
-## Contribution
-
-Les contributions à ce projet sont les bienvenues. Pour contribuer, veuillez suivre les étapes suivantes :
-
-1. Forkez le dépôt.
-2. Créez une nouvelle branche pour votre fonctionnalité ou correction de bug (`git checkout -b feature/maSuperFonctionnalite`).
-3. Faites vos modifications et committez-les (`git commit -am 'Ajout de ma super fonctionnalité'`).
-4. Poussez votre branche (`git push origin feature/maSuperFonctionnalite`).
-5. Créez une nouvelle Pull Request.
 
 ## Licence
 
