@@ -10,6 +10,9 @@
     },
     "preview": {
       "distribution": "internal",
+      "env": {
+        "EXPO_PUBLIC_API_KEY_PIXABAY": "43316374-74f24fbfe7f541b0bd997d782"
+      },
       "channel": "preview",
       "ios":{
         "simulator":true

@@ -1,10 +1,10 @@
 import { FunctionComponent } from "react";
-import { Pressable, StyleSheet, TouchableOpacity } from "react-native";
+import { StyleSheet, TouchableOpacity } from "react-native";
 import { Image } from "expo-image";
 
 import { wp, getImageSize } from "@/helpers/common";
 import { theme } from "@/constants/theme";
-import { Link, Router } from "expo-router";
+import { Router } from "expo-router";
 interface ImageCardProps {
   item: any;
   index: number;

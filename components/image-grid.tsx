@@ -1,4 +1,4 @@
-import { View, Text, StyleSheet, ActivityIndicator } from "react-native";
+import { View, StyleSheet, ActivityIndicator } from "react-native";
 import { MasonryFlashList } from "@shopify/flash-list";
 import ImageCard from "./image-card";
 import { getColumns, wp } from "@/helpers/common";
